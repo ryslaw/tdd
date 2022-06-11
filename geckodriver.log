@@ -1,0 +1,9 @@
+1654968319034	geckodriver	INFO	Listening on 127.0.0.1:47323
+1654968319817	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "51147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/home/ryslaw/tmp/rust_mozprofileFmLwzB"
+Read port: 46097
+1654968324101	geckodriver	INFO	Listening on 127.0.0.1:39615
+1654968324684	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "41165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/home/ryslaw/tmp/rust_mozprofilehUUA3a"
+Read port: 33097
+1654968327252	geckodriver	INFO	Listening on 127.0.0.1:46303
+1654968327836	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "60117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/home/ryslaw/tmp/rust_mozprofile9UR599"
+Read port: 33479
