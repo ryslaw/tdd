@@ -124,4 +124,4 @@ STATIC_ROOT = BASE_DIR / '../static'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CSRF_TRUSTED_ORIGINS = ['https://book-example.ryslaw.ovh']
+CSRF_TRUSTED_ORIGINS = ['http://book-example.ryslaw.ovh']
